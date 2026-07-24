@@ -9,12 +9,11 @@ The application uses Artificial Intelligence to generate personalized recipes, s
 FoodSaver AI is useful for students, families, and individuals who want to save money, manage their food resources efficiently, and reduce unnecessary waste.
 
 ---
-
 # Live Demo
 
 **Live URL:**
 
-YOUR_GOOGLE_AI_STUDIO_PUBLISHED_URL
+https://foodsaver.ai.studio
 
 ---
 
