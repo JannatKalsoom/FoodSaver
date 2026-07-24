@@ -1,0 +1,6 @@
+{
+  "name": "FoodSaver AI",
+  "description": "Never waste food again - track pantry ingredients and generate creative recipes with AI to avoid food waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
