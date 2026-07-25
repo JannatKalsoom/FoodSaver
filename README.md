@@ -167,7 +167,6 @@ The AI receives the following instructions:
 ```bash
 git clone https://github.com/YOUR_USERNAME/foodsaver-ai.git
 
-
 ### How to Run the Project Locally
 
 Follow these steps to run **FoodSaver AI** on your local system.
@@ -210,4 +209,3 @@ The application will start locally and can be accessed at:
 
 ```
 http://localhost:3000
-`
