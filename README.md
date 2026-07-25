@@ -161,8 +161,8 @@ The AI receives the following instructions:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/foodsaver-ai.git
-cd foodsaver-ai
+git clone https://github.com/JannatKalsoom/FoodSaver.git
+cd FoodSaver
 ```
 
 ## 2. Install Dependencies
