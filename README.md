@@ -196,3 +196,19 @@ The application will start locally at:
 ```text
 http://localhost:3000
 ```
+---
+
+# 👩‍💻 Author
+
+**Jannat Kalsoom Mir**
+
+BS Information Technology  
+Government Women University Sialkot
+
+GitHub: https://github.com/JannatKalsoom
+
+---
+
+## Acknowledgements
+
+This project was developed as the Final Project for the **"Ship Your AI App"** assignment. It demonstrates the use of **Google Gemini AI** to solve a real-world problem by helping users reduce food waste through intelligent recipe generation and pantry management.
