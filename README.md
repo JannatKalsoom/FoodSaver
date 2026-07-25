@@ -138,25 +138,21 @@ The AI receives the following instructions:
 ---
 
 # 📸 Screenshots
-
 ## Home Screen
 
-![Home](screenshots/home.png)
-
+![Home Screen](home-screen.png)
 
 ## Pantry Management
 
-![Pantry](screenshots/pantry.png)
-
+![Pantry Management](pantry-management.png)
 
 ## AI Recipe Generation
 
-![Recipe](screenshots/recipe.png)
-
+![AI Recipe Generation](ai-recipe-generation.png)
 
 ## Food Storage Tips
 
-![Storage](screenshots/storage.png)
+![Food Storage Tips](food-storage-tips.png)
 
 ---
 
