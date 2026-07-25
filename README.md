@@ -158,24 +158,14 @@ The AI receives the following instructions:
 
 # Running the Project Locally
 
-## Clone Repository
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/foodsaver-ai.git
-
-### How to Run the Project Locally
-
-Follow these steps to run **FoodSaver AI** on your local system.
-
-### 2. Open the Project Folder
-
-Move into the project directory:
-
-```bash
 cd foodsaver-ai
 ```
 
-### 3. Install Dependencies
+## 2. Install Dependencies
 
 Install all required project dependencies:
 
@@ -183,9 +173,9 @@ Install all required project dependencies:
 npm install
 ```
 
-### 4. Configure Environment Variables
+## 3. Configure Environment Variables
 
-Create a `.env` file in the root directory of the project and add your Google Gemini API key:
+Create a `.env` file in the root directory and add your Google Gemini API key:
 
 ```env
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
@@ -193,15 +183,16 @@ GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 Replace `YOUR_GEMINI_API_KEY` with your actual Gemini API key.
 
-### 5. Start the Development Server
+## 4. Start the Development Server
 
-Run the application using:
+Run the application:
 
 ```bash
 npm run dev
 ```
 
-The application will start locally and can be accessed at:
+The application will start locally at:
 
-```
+```text
 http://localhost:3000
+```
